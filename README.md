@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--### I'm Christian 👋
+<!-#-## I'm Christian 👋
 
 I'm a Software Engineering student at Manchester Metropolitan University. I like building things where correctness actually matters — the kind of software where "close enough" isn't good enough, whether that's reconciling financial transactions to the penny or tracking real-time bus positions accurately enough that someone could actually rely on them.
 
