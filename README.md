@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!-#-## I'm Christian 👋
+### I'm Christian 👋
 
 I'm a Software Engineering student at Manchester Metropolitan University. I like building things where correctness actually matters — the kind of software where "close enough" isn't good enough, whether that's reconciling financial transactions to the penny or tracking real-time bus positions accurately enough that someone could actually rely on them.
 
@@ -47,15 +45,3 @@ A student issue-management platform built for a Computing & Engineering departme
 ### Get in touch
 
 [LinkedIn](https://linkedin.com/in/christian-koomson-942bb2273/) · [christiankoomson11@gmail.com](mailto:christiankoomson11@gmail.com)
-**christiankoomson11/christiankoomson11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Manchester Transport Real Time Map
-- 🌱 I’m currently learning Java/ JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with C++
-- 💬 Ask me about Data Structures.
-- 📫 How to reach me: LinkedIn or Email 
-- ⚡ Fun fact: Kotlin sucks.
--->
